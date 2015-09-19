@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+.black {
+	background-color: black;
+	width: 10px;
+}
+
+textarea {
+	position: absolute;
+}
+
+.test {
+	background-color: white;
+	width: 10px;
+	height: 10px;
+	cursor: default;
+	border: 1px solid black;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.inp {
+	width: 30px;
+}
+
+.root {
+	background-color: lightgreen;
+	position: relative;
+	font-size: 10px;
+	height: auto;
+	width: auto;
+}
+
+.colors {
+	width: 80px;
+}
+
+#result {
+	position: absolute;
+}
+
+#Tbox {
+	position: absolute;
+}
